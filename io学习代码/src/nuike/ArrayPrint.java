@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+// test
 public class ArrayPrint {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
