@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e0a6883-941f-4daa-b98c-c5e7461783e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1btmAgbqP1FNtTfow5VOXMJsqGd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/../io学习代码/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../网络学习代码" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\黄庆99\Desktop\io学习代码\src" />
+      <recent name="C:\Users\黄庆99\Desktop\io学习代码\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayPrint">
+    <configuration name="ArrayPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nuike.ArrayPrint" />
+      <module name="io-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nuike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateCandy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nuike.CalculateCandy" />
+      <module name="io-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nuike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.Client" />
+      <module name="网络学习代码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.Server" />
+      <module name="网络学习代码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nuike.StringDelete" />
+      <module name="io-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nuike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayPrint" />
+        <item itemvalue="Application.CalculateCandy" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.StringDelete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e0a6883-941f-4daa-b98c-c5e7461783e7" name="Default Changelist" comment="" />
+      <created>1589459621228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589459621228</updated>
+      <workItem from="1589459622933" duration="1012000" />
+      <workItem from="1589540920752" duration="1594000" />
+      <workItem from="1589555698794" duration="227000" />
+      <workItem from="1589639355722" duration="2935000" />
+      <workItem from="1589720323839" duration="24000" />
+      <workItem from="1589815832043" duration="16115000" />
+      <workItem from="1590153271149" duration="16042000" />
+      <workItem from="1590400663647" duration="15708000" />
+      <workItem from="1590587956695" duration="12868000" />
+      <workItem from="1590760043475" duration="36501000" />
+      <workItem from="1591095153908" duration="9341000" />
+      <workItem from="1591193515331" duration="18633000" />
+      <workItem from="1591451018619" duration="21751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="850" y="98" key="#Client" timestamp="1591514776854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="850" y="98" key="#Client/0.0.1536.824@0.0.1536.824" timestamp="1591514776854" />
+    <state x="561" y="62" key="#Project_Structure" timestamp="1590916998921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="62" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590916998921" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1591459573909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1591459573909" />
+    <state x="940" y="297" width="439" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590822670211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="940" y="297" width="439" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1590822670211" />
+    <state x="87" y="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590845093026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="87" y="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1590845093026" />
+    <state x="728" y="157" key="FileChooserDialogImpl" timestamp="1591454553062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="728" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591454553062" />
+    <state width="625" height="278" key="GridCell.Tab.0.bottom" timestamp="1591611955410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="625" height="278" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591611955410" />
+    <state width="625" height="278" key="GridCell.Tab.0.center" timestamp="1591611955409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="625" height="278" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591611955409" />
+    <state width="625" height="278" key="GridCell.Tab.0.left" timestamp="1591611955409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="625" height="278" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591611955409" />
+    <state width="625" height="278" key="GridCell.Tab.0.right" timestamp="1591611955410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="625" height="278" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591611955410" />
+    <state width="931" height="206" key="GridCell.Tab.1.bottom" timestamp="1590086086785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="931" height="206" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590086086785" />
+    <state width="931" height="206" key="GridCell.Tab.1.center" timestamp="1590086086785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="931" height="206" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590086086785" />
+    <state width="931" height="206" key="GridCell.Tab.1.left" timestamp="1590086086785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="931" height="206" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590086086785" />
+    <state width="931" height="206" key="GridCell.Tab.1.right" timestamp="1590086086785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="931" height="206" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590086086785" />
+    <state x="382" y="56" width="1121" height="707" key="SettingsEditor" timestamp="1589973606023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="382" y="56" width="1121" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589973606023" />
+    <state x="1011" y="196" key="chooseDestDirectoryDialog" timestamp="1590915947662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1011" y="196" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1590915947662" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591451915403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591451915403" />
+    <state x="256" y="44" key="new project wizard" timestamp="1591454555374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="256" y="44" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1591454555374" />
+    <state x="868" y="176" key="run.anything.popup" timestamp="1591254016091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="868" y="176" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591254016091" />
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1590826220014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590826220014" />
+  </component>
+</project>
